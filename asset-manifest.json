@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/florist_shop/static/css/main.0be00d25.css",
+    "main.js": "/florist_shop/static/js/main.92dcf484.js",
+    "index.html": "/florist_shop/index.html",
+    "main.0be00d25.css.map": "/florist_shop/static/css/main.0be00d25.css.map",
+    "main.92dcf484.js.map": "/florist_shop/static/js/main.92dcf484.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0be00d25.css",
+    "static/js/main.92dcf484.js"
+  ]
+}
